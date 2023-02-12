@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <div style="text-align: center; font-size: 1.5em; margin-top: 10px;">LOGIN AS</div>
+    <style>
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: linear-gradient(to right, #6dd5ed, #2193b0);
+        animation: gradient 10s ease-in-out infinite;
+      }
+      @keyframes gradient {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+      .box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 200px;
+        height: 200px;
+        margin: 10px;
+        text-transform: none;
+        cursor: pointer;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease-in-out;
+      }
+      .box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+      }
+      .icon {
+        font-size: 3em;
+        margin-bottom: 10px;
+      }
+      .text {
+        font-size: 1.2em;
+        margin-top: 10px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="/college.html">
+      <button class="box">
+        <i class="icon fa fa-university"></i>
+        <img src="images/college.png" height="65">
+        <h1 class="text">University</h1>
+      </button>
+     </a>
+     <a href="/student.html">
+      <button class="box">
+        <i class="icon fa fa-user"></i>
+        <img src="images/student.jpg" height="65">
+        <h1 class="text">Student</h1>
+      </button>
+      </a>
+      <a href="recruiter.html">
+      <button class="box">
+        <i class="icon fa fa-briefcase"></i>
+        <img src="images/recruiter.jpg" height="65">
+        <h1 class="text">Recruiter</h1>
+      </button>
+      </a>
+    </div>
+   
+    <script src="https://kit.fontawesome.com/your-kit-code-here.js"></script>
+  </body>
+</html>
