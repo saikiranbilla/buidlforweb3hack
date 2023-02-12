@@ -11,10 +11,10 @@ The application has three main stakeholders - colleges, students, and recruiters
 The login for the application is connected to the Metamask wallet, ensuring secure and decentralized access.
 
 ## Cross-chain Communication
-The application uses Router protocol to facilitate cross-chain communication and make the degrees accessible across different blockchain networks. The Router protocol enables communication between multiple networks, allowing the degrees to be easily transferred and validated between different chains.
+The application uses **Router protocol** to facilitate cross-chain communication and make the degrees accessible across different blockchain networks. The Router protocol enables communication between multiple networks, allowing the degrees to be easily transferred and validated between different chains.
 
 ## Hosting
-The application is hosted on the Spheron platform, providing a secure and reliable infrastructure for the application. Spheron is a decentralized hosting platform that uses IPFS (InterPlanetary File System) to store and serve the web application's content. The use of Spheron ensures that the application is hosted on a decentralized, tamper-proof, and resilient network, providing a secure and reliable user experience. You can access the application at http://buidlforweb3hack-6d7b62.spheron.app/.
+The application is hosted on the **Spheron** platform, providing a secure and reliable infrastructure for the application. Spheron is a decentralized hosting platform that uses IPFS (InterPlanetary File System) to store and serve the web application's content. The use of Spheron ensures that the application is hosted on a decentralized, tamper-proof, and resilient network, providing a secure and reliable user experience. You can access the application at http://buidlforweb3hack-6d7b62.spheron.app/.
 
 ## Tech Stack
 ### Frontend
