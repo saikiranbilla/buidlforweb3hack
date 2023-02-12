@@ -25,10 +25,10 @@ The application is hosted on the **Spheron** platform, providing a secure and re
 - Solidity
 
 ## Contributors
-- Billa Sai Kiran
-- Tejesh Annavarapu
-- Mohith Peddineni 
-- Vikranth Madala
+- [Billa Sai Kiran](https://github.com/saikiranbilla)
+- [Tejesh Annavarapu](https://github.com/Tejesh18)
+- [Mohith Peddineni](https://github.com/mohithpeddineni17) 
+- [Vikranth Madala](https://github.com/madalavikranth31)
 
 ## Conclusion
 Degree Tokenization is a revolutionary solution for combating degree forgery and making the verification of degrees more efficient and trustworthy. The use of the Router protocol and Spheron hosting platform provides a secure and decentralized solution for the stakeholders, ensuring that the degrees are stored and validated on a tamper-proof and reliable network. The application is built with the latest technologies and provides a secure and user-friendly experience for all stakeholders involved.
