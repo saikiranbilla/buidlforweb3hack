@@ -1,8 +1,9 @@
 # Degree Tokenization
 Degree Tokenization is a decentralized application built during the **BUIDL FOR WEB3 HACK hackathon** to solve the problem of degree forgery. This project enables colleges to issue degrees to students on the blockchain, making it tamper-proof and easily verifiable by recruiters.
 
+
 ## Demo video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9-UlAUdfr2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/9-UlAUdfr2A
 
 ## Soul-Based Tokens
 The project uses soul-based tokens, a type of Non-Fungible Token (NFT), to represent each degree issued by the college. Each soul-based token is unique and cannot be duplicated, making it the perfect solution for representing the uniqueness of each degree. The use of soul-based tokens allows the degrees to be easily transferred and validated on the blockchain, ensuring that they are tamper-proof and verifiable by recruiters.
